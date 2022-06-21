@@ -39,3 +39,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Vite documentation](https://vitejs.dev/guide/).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Screenshots
+![DemoGifExpertApp](./src/assets/gifexpertapp.PNG)
